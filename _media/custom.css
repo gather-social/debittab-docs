@@ -1,0 +1,17 @@
+@media screen and (min-width: 480px) {
+    img.screen {
+        width: 55%
+    }
+}
+
+@media screen and (min-width: 768px) {
+    img.screen {
+        width: 44%
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    img.screen {
+        width: 33%
+    }
+}

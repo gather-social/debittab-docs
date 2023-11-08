@@ -1,4 +1,5 @@
 # Vendors Guide
+
 ## Learn and Teach
 We provide a convenient teaching interface for you to learn
 our system without worrying that you'll mess something up.
@@ -18,9 +19,11 @@ Here's how to get started:
 Simply navigate to https://teach.debittab.com and log in
 with the same username and password you use on the main
 DebitTab app (provided to you on signup). The orange border
-and header as shown in fig. 1 are there to make sure you
-always know when you're working in the teach interface
-without having to check the url.
+and header are there to make sure you always know when
+you're working in the teach interface without having to
+check the url.
+
+![Login (teach interface)](/_media/screens/teach/login.jpg ':class=screen')
 
 ?> Please note that everything you do in the teach interface
 is sandboxed from the main system with the exception of
@@ -43,8 +46,7 @@ administrative work on DebitTab.
 Once you're on the console dashboard click *Create Offering*
 in the second-level navigation bar.
 
-<!-- TODO image here -->
-![image alt text](image-link)
+![Create offering](/_media/screens/teach/create_offering.jpg ':class=screen')
 
 Here you can specify the details of your offering, for a
 preview of how your offering will appear, to give context,
@@ -53,6 +55,8 @@ please see the next section.
 ### Viewing your offering on the marketplace
 In the top-level navigation bar select *Marketplace* to see
 your offering the way issuers will see it.
+
+![Marketplace (teach interface)](/_media/screens/teach/marketplace.jpg ':class=screen')
 
 ?> Please note that in the teach interface you will only see
 your own offerings and not those of other vendors. This
@@ -74,6 +78,9 @@ will find three buttons (with orange teach-mode borders).
 These buttons allow you to simulate the process of a
 DebitTab issuer business giving out your voucher so that you
 can practice redeeming it.
+
+![details (teach interface)](/_media/screens/teach/details.jpg ':class=screen')
+![teach issuance](/_media/screens/teach/issue_teach.jpg ':class=screen')
 
 The first button will issue a new voucher normally; the
 second will create a voucher that's already expired, so you
@@ -114,6 +121,8 @@ of the page.
 * **Step Three:** Scan the QR code with your own phone or a
 company-owned device like a phone, tablet, iPad, etc.
 
+![Redeem (teach interface)](/_media/screens/teach/redeem.jpg ':class=screen')
+
 * **Step Four:** Press the redeem button.
 
 * **Step Five:** Scan or type in your company's confirmation
@@ -127,19 +136,24 @@ confirmation code in the correct format. You can then have
 this code printed on stickers or laminated cards to make it
 easier for your staff to accept vouchers.
 
+![Confirm redemption](/_media/screens/teach/confirm.jpg ':class=screen')
+
 * **Step Six:** Press confirm and verify that the system has
 returned the correct *return phrase,* and then provide
 services and products up to the denomination of the voucher.
 
 * **Step Seven:** Optionally, and only within the teach
 interface, press the orange-bordered re-issue button to
-issue a new, valid, unredeemed voucher to run the exercise
-again or train the next staff-member.
+issue a new, valid, unredeemed voucher, in order to run the
+exercise again or train the next staff-member.
 
 ## The live system
 Now that you know how to use DebitTab you're ready to move
 over to [the live system](https://app.debittab.com) at
 https://app.debittab.com
+
+?> As you can see, the live system does not have the orange
+dashed border and other teach-mode callouts.
 
 ## Getting paid out
 DebitTab pays vendors twice per month, 15 days in arrears.

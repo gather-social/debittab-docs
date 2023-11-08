@@ -65,7 +65,7 @@ document (instructions are provided, it's very easy).
 for you.
 
 * **Step Four:** Follow the
-[Vendor's Guide or Issuer's Guide](#role-specific-guides)
+[Vendor's Guide](/vendors) or [Issuer's Guide](/issuers)
 to learn how to log in and use the DebitTab tools to offer
 your products and services to the marketplace; or issue
 vouchers to your customers, employees, and business
