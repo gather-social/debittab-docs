@@ -32,11 +32,6 @@ settings menu. Because you use the same details for teach as
 for the real system, changing one will always change the
 other as well.
 
-!> On your first login you will be redirected to change your
-password. You will not be able to continue with the system
-until you set a new and secure password.
-
-
 ### Creating an offering
 To create an offering simply scroll down or close the menu
 and click *Console* in the top-level navigation bar. The

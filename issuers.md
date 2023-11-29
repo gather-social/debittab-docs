@@ -7,10 +7,6 @@ that we sent you.
 
 ![The login menu](/_media/screens/login.jpg ':class=screen')
 
-!> On your first login you will be redirected to change your
-password. You will not be able to continue with the system
-until you set a new and secure password.
-
 ## The dashboard
 
 ### Account balances

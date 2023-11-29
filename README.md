@@ -1,9 +1,7 @@
 <!--
     TODO:
-
     - add a user/bearer page explaining "What do I do with
     this thing"
-    - write some kind of homepage (this page)
     - consider adding a top banner section thing
 -->
 
